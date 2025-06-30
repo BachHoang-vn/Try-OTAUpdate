@@ -12,6 +12,8 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 
+# commit new
+
 """A sample skeleton vehicle app."""
 
 import asyncio
